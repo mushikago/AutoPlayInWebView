@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B583E456-37FC-4ACF-B555-592221E33333</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutoPlayInWebView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E36234121AD4FB8FE2C5738BD7C4A843715CE3A</key>
+		<string>https://github.com/mushikago/AutoPlayInWebView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AutoPlayInWebView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E36234121AD4FB8FE2C5738BD7C4A843715CE3A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mushikago/AutoPlayInWebView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E36234121AD4FB8FE2C5738BD7C4A843715CE3A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E36234121AD4FB8FE2C5738BD7C4A843715CE3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AutoPlayInWebView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
